@@ -2,6 +2,19 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-h1 {
-  color: red;
+.social-btn {
+  color: #fff;
+  height: 28px;
+  width: 100px;
+  text-align: center;
+  background-color: #E94F37;
+}
+
+.social-btn a {
+  color: #fff;
+}
+
+.social-btn a:hover {
+  color: #e4e4e4;
+  text-decoration: none;
 }
